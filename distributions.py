@@ -5,3 +5,5 @@ class ZMGPD:
     def forward(self):
         return self.p1 * self.p2
 
+class Binned:
+    pass
