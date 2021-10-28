@@ -1,3 +1,6 @@
+from distributions import ZMGPD
+
 if __name__ == "__main__":
-    print("Skoro smo zeznuli")
+    g = ZMGPD(1,2)
+    print(g.forward())
 
