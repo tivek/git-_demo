@@ -7,3 +7,6 @@ class ZMGPD:
 
 class Binned:
     pass
+
+class nestonovo:
+    pass
